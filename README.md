@@ -1,6 +1,10 @@
 # Comune
 
-**TODO: Add description**
+Verification receipt library of in app purchase
+
+## TODO
+- [x] Verify apple receipt
+- [ ] Verify google receipt
 
 ## Installation
 
